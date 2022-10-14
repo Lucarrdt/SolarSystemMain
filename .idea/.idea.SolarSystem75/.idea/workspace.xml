@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665752067283</updated>
-      <workItem from="1665752069925" duration="4261000" />
+      <workItem from="1665752069925" duration="4659000" />
     </task>
     <task id="LOCAL-00001" summary="DispatcherTimer finished">
       <created>1665754237544</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665755469863</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished">
+      <created>1665757004544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665757004544</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
