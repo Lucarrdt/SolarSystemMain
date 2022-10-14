@@ -4,56 +4,7 @@
     <projectFile>SolarSystem75/SolarSystem75.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70e8211-4529-497c-b4da-ec2cddced1bb" name="Changes" comment="DispatcherTimer finished">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SolarSystem75/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SolarSystem75/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SolarSystem75/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SolarSystem75/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SolarSystem75/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SolarSystem.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/MainWindow.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/MainWindow.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/SolarSystem75.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/bin/Debug/net6.0-windows/SolarSystem75.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/bin/Debug/net6.0-windows/SolarSystem75.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/bin/Debug/net6.0-windows/SolarSystem75.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/bin/Debug/net6.0-windows/SolarSystem75.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/bin/Debug/net6.0-windows/SolarSystem75.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/App.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/MainWindow.baml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/MainWindow.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.g.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75_MarkupCompile.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75_MarkupCompile.lref" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75_nlpn1f0r_wpftmp.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75_nlpn1f0r_wpftmp.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75_nlpn1f0r_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/SolarSystem75_nlpn1f0r_wpftmp.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/apphost.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/ref/SolarSystem75.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/Debug/net6.0-windows/refint/SolarSystem75.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/SolarSystem75.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/SolarSystem75.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/SolarSystem75.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolarSystem75/obj/rider.project.restore.info" beforeDir="false" />
-    </list>
+    <list default="true" id="b70e8211-4529-497c-b4da-ec2cddced1bb" name="Changes" comment="finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -116,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665752067283</updated>
-      <workItem from="1665752069925" duration="3185000" />
+      <workItem from="1665752069925" duration="4261000" />
     </task>
     <task id="LOCAL-00001" summary="DispatcherTimer finished">
       <created>1665754237544</created>
@@ -125,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665754237544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished">
+      <created>1665755469863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665755469863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="DispatcherTimer finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
   </component>
 </project>
